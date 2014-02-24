@@ -1,11 +1,7 @@
 """Blank line extension for Markdown.
 
-This extension adds the syntax for an user to add a blank line. The syntax is 
-the same as in reStructuredText. Just have a line which only consist out of a vertical line. Much like
-```
-| 
-```
-This will create a <br> tag
+This extension adds the syntax for an user to add a blank line. This can be in the middle of a text block. 
+Just type %% and it will add a <br>. This is especially useful for adding blank lines on their own. 
 
 """
 
